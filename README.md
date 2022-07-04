@@ -19,17 +19,17 @@ Instructions:
 
 3. Try the following selects:
 - Get all data from the groups<sup>\*</sup>
-	- [X] SELECT * FROM `groups`;
+	- [X] ![Select data from groups table](select.JPG)
 
 - Get the name and email of the first learner, and alias the name to learner_name<sup>\*</sup> 
-	- [X] SELECT name, email AS learner_name FROM learners where id = 1;
+	- [X] ![Select as](selectAs.JPG)
 
 4. 💩 happens - a group needs to be postponed
 - Update the start date of the first_group (make it two months later)<sup>\*</sup>
-	- [X] UPDATE groups SET start_date = 2022-09-04 WHERE id = 1;
+	- [X] ![Update start_date group](Update groups.JPG)
 
 - Introduce a new field `status` which can contain a long text indicating the reason for postponing (bonus points if it's a creative one)
 
 5. One of the learners changed his/her mind and decided to be an astronaut
 - Delete someone from the learners table<sup>\*</sup>
-	- [X] DELETE FROM `learners` WHERE id = 2;
+	- [X] ![Delete someone](delete.JPG)
