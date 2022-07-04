@@ -26,7 +26,7 @@ Instructions:
 
 4. 💩 happens - a group needs to be postponed
 - Update the start date of the first_group (make it two months later)<sup>\*</sup>
-	- [X] ![Update start_date group](Update groups.JPG)
+	- [X] ![Update group](Update.JPG)
 
 - Introduce a new field `status` which can contain a long text indicating the reason for postponing (bonus points if it's a creative one)
 
