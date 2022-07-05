@@ -43,3 +43,8 @@ Instructions:
  - Select a coach and all related groups*
  - Select all the above, but also all learners from this group who are still active*
  	- [X] ![Join](join.JPG)
+
+
+### useful links
+* https://mariadb.com/kb/en/mariadb-basics/
+* https://www.youtube.com/watch?v=Xb9K8IAdZNg&t=2s
