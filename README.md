@@ -33,3 +33,13 @@ Instructions:
 5. One of the learners changed his/her mind and decided to be an astronaut
 - Delete someone from the learners table<sup>\*</sup>
 	- [X] ![Delete someone](delete.JPG)
+
+
+### 🌼 Nice to have (doable)
+6. A learner belongs to a group, and a group has a coach
+- Find a technique to make this connection in the database (what of the field is unique to a record, so we can refer to it?)
+
+7.We want all the data:
+ - Select a coach and all related groups*
+ - Select all the above, but also all learners from this group who are still active*
+ 	- [X] ![Join](join.JPG)
